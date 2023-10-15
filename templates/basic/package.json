@@ -6,7 +6,7 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite",
-    "deploy": "wrangler pages deploy ./dist"
+    "deploy": "$npm_execpath build && wrangler pages deploy ./dist"
   },
   "dependencies": {
     "hono": "^3.7.6",

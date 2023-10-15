@@ -6,7 +6,7 @@
   "scripts": {
     "build": "vite build && vite build --mode client",
     "dev": "vite",
-    "deploy": "wrangler pages deploy ./dist"
+    "deploy": "$npm_execpath build && wrangler pages deploy ./dist"
   },
   "dependencies": {
     "@hono/vite-dev-server": "^0.0.7",
