@@ -1,5 +1,5 @@
 {
-  "name": "sonik-example-preact",
+  "name": "%%PROJECT_NAME%%",
   "version": "0.0.0",
   "type": "module",
   "private": true,
