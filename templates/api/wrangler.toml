@@ -1,4 +1,4 @@
-name = "%%PROJECT_NAME%%"
+name = "%%PROJECT_NAME_API%%"
 compatibility_date = "2023-01-01"
 
 [build]

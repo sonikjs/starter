@@ -1,5 +1,5 @@
 {
-  "name": "%%PROJECT_NAME%%",
+  "name": "%%PROJECT_NAME_API%%",
   "version": "0.0.0",
   "type": "module",
   "private": true,
