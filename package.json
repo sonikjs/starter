@@ -1,0 +1,10 @@
+{
+  "name": "starter",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "templates/*"
+  ],
+  "license": "MIT",
+  "packageManager": "yarn@3.6.4"
+}
