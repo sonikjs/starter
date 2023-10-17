@@ -7,9 +7,6 @@ export default function Index(c: Context) {
       <h2>
         Hello <a href='/about/me'>me</a>!
       </h2>
-      <>
-        <h1>Hi</h1>
-      </>
       <Counter />
     </div>,
     {
