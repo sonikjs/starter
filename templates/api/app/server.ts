@@ -1,7 +1,8 @@
 import { createApp } from 'sonik/default'
+import { showRoutes } from "hono/dev"
 
 const app = createApp()
 
-app.showRoutes()
+showRoutes(app)
 
 export default app
